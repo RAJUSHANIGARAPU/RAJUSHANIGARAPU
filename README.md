@@ -30,7 +30,7 @@ I don't just automate tests — I **design the system around them**. 10+ years b
 
 **Automation & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=selenium,playwright,py,java,js,postman&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=selenium,cypress,python,java,js,postman&theme=dark&perline=6" />
 
 **DevOps & Cloud**
 
@@ -38,7 +38,7 @@ I don't just automate tests — I **design the system around them**. 10+ years b
 
 **Languages, Data & Tools**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mongodb,mysql,grafana,git,linux,vscode,idea&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,grafana,git,linux,bash,vscode,idea,spring,bootstrap&theme=dark&perline=6" />
 
 </div>
 
@@ -99,7 +99,7 @@ Extended Boardfarm to automate firmware flashing, DOCSIS protocol validation, Wi
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJUSHANIGARAPU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJUSHANIGARAPU&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RAJUSHANIGARAPU&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
