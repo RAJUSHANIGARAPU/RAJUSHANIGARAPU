@@ -93,6 +93,8 @@ Extended Boardfarm to automate firmware flashing, DOCSIS protocol validation, Wi
 </tr>
 </table>
 
+> 🔓 The self-healing, AI test-generation, and contract-testing patterns above are demonstrated in open source in **[wiki_project](https://github.com/RAJUSHANIGARAPU/wiki_project)** — a universal AI-powered test-automation framework (Pytest + Playwright, multi-agent API pipeline, self-healing locators, flakiness intelligence).
+
 ---
 
 ## 🌟 Open Source
@@ -105,9 +107,11 @@ Public, inspectable code — not slides.
 </div>
 <div align="center">
 <a href="https://github.com/RAJUSHANIGARAPU/testscribe"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJUSHANIGARAPU&repo=testscribe&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/RAJUSHANIGARAPU/wiki_project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJUSHANIGARAPU&repo=wiki_project&theme=tokyonight&hide_border=true" /></a>
 </div>
 
 - **[agent-lens](https://github.com/RAJUSHANIGARAPU/agent-lens)** — the interactive debugger for LLM agents: pause a run mid-call, fork it with edited state, and structurally diff the two runs for a measurable verdict. FastAPI + SSE dashboard + MCP server, published on PyPI.
+- **[wiki_project](https://github.com/RAJUSHANIGARAPU/wiki_project)** — a universal AI-powered test-automation framework: multi-agent API-testing pipeline, self-healing UI locators, flakiness intelligence, and autonomous run→analyze→heal→rerun loops. Pytest + Playwright.
 - **[falsify](https://github.com/RAJUSHANIGARAPU/falsify)** — gate a backtested trading edge before you trust it: Deflated Sharpe, cost-floor, and autocorrelation checks implemented from scratch in zero-dependency Python.
 - **[testscribe](https://github.com/RAJUSHANIGARAPU/testscribe)** — AI-powered test-case generation from user stories, requirements docs, and OpenAPI specs (Gherkin / pytest / tabular). FastAPI service with auth, billing, and rate limiting.
 
