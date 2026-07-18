@@ -111,6 +111,7 @@ Public, inspectable code — not slides.
 </div>
 <div align="center">
 <a href="https://github.com/RAJUSHANIGARAPU/playwright-e2e-demo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJUSHANIGARAPU&repo=playwright-e2e-demo&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/RAJUSHANIGARAPU/self-healing-browser-mcp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJUSHANIGARAPU&repo=self-healing-browser-mcp&theme=tokyonight&hide_border=true" /></a>
 </div>
 
 - **[agent-lens](https://github.com/RAJUSHANIGARAPU/agent-lens)** — the interactive debugger for LLM agents: pause a run mid-call, fork it with edited state, and structurally diff the two runs for a measurable verdict. FastAPI + SSE dashboard + MCP server, published on PyPI.
@@ -118,6 +119,7 @@ Public, inspectable code — not slides.
 - **[falsify](https://github.com/RAJUSHANIGARAPU/falsify)** — gate a backtested trading edge before you trust it: Deflated Sharpe, cost-floor, and autocorrelation checks implemented from scratch in zero-dependency Python.
 - **[testscribe](https://github.com/RAJUSHANIGARAPU/testscribe)** — AI-powered test-case generation from user stories, requirements docs, and OpenAPI specs (Gherkin / pytest / tabular). FastAPI service with auth, billing, and rate limiting.
 - **[playwright-e2e-demo](https://github.com/RAJUSHANIGARAPU/playwright-e2e-demo)** — a production-style end-to-end suite in TypeScript + Playwright: Page Object Model, fixtures, data-driven cases, stable `data-test` locators, cross-browser (Chromium / Firefox / WebKit), and CI.
+- **[self-healing-browser-mcp](https://github.com/RAJUSHANIGARAPU/self-healing-browser-mcp)** — an MCP server that gives any AI agent (Claude / Cursor) a real browser to drive via Playwright, with a **self-healing locator engine** that recovers when selectors drift instead of failing. Agentic, MCP-native, accessibility-tree navigation.
 
 ---
 
