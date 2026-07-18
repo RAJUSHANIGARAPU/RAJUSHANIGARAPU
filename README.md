@@ -20,7 +20,7 @@ I don't just automate tests — I **design the system around them**. 10+ years b
 - 🤖 **AI-first engineer** — built LLM-powered test generation that cut authoring time by **70%** and eliminated test debt as a sprint bottleneck
 - 🔁 **Self-healing automation pioneer** — adaptive locator engine with **85% reduction** in UI maintenance, zero flaky-test escalations for 6 months straight
 - ⚡ **CI/CD integrator** — quality gates baked into Azure Pipelines; tests on every commit, **60% faster** release cycles
-- 📍 Uithoorn, Netherlands · Dutch national · Open to Lead / Architect roles across NL & Remote EU
+- 📍 Amstelveen, Netherlands · Dutch national · Open to Lead / Architect roles across NL & Remote EU
 
 ---
 
@@ -92,6 +92,24 @@ Extended Boardfarm to automate firmware flashing, DOCSIS protocol validation, Wi
 </td>
 </tr>
 </table>
+
+---
+
+## 🌟 Open Source
+
+Public, inspectable code — not slides.
+
+<div align="center">
+<a href="https://github.com/RAJUSHANIGARAPU/agent-lens"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJUSHANIGARAPU&repo=agent-lens&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/RAJUSHANIGARAPU/falsify"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJUSHANIGARAPU&repo=falsify&theme=tokyonight&hide_border=true" /></a>
+</div>
+<div align="center">
+<a href="https://github.com/RAJUSHANIGARAPU/testscribe"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJUSHANIGARAPU&repo=testscribe&theme=tokyonight&hide_border=true" /></a>
+</div>
+
+- **[agent-lens](https://github.com/RAJUSHANIGARAPU/agent-lens)** — the interactive debugger for LLM agents: pause a run mid-call, fork it with edited state, and structurally diff the two runs for a measurable verdict. FastAPI + SSE dashboard + MCP server, published on PyPI.
+- **[falsify](https://github.com/RAJUSHANIGARAPU/falsify)** — gate a backtested trading edge before you trust it: Deflated Sharpe, cost-floor, and autocorrelation checks implemented from scratch in zero-dependency Python.
+- **[testscribe](https://github.com/RAJUSHANIGARAPU/testscribe)** — AI-powered test-case generation from user stories, requirements docs, and OpenAPI specs (Gherkin / pytest / tabular). FastAPI service with auth, billing, and rate limiting.
 
 ---
 
