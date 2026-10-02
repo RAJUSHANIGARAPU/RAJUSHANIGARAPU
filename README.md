@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I don't just automate tests — I **design the system around them**. 10+ years building QA architectures at telecom scale, low-code platforms, and enterprise insurance. CI/CD quality gates, self-healing selectors, AI-assisted test generation — in production, not in slides. I lead with clarity, mentor engineers to grow, and ship confidence every sprint.
+I don't just automate tests — I **design the system around them**. 10+ years building QA architectures at telecom scale, and low-code platforms. CI/CD quality gates, self-healing selectors, AI-assisted test generation — in production, not in slides. I lead with clarity, mentor engineers to grow, and ship confidence every sprint.
 
 </div>
 
@@ -16,7 +16,7 @@ I don't just automate tests — I **design the system around them**. 10+ years b
 
 ## 🧠 About Me
 
-- 🏗️ **QA Architect @ ANVA** — own the full test strategy across 8+ applications, from framework design to release confidence gates
+- 🏗️ **QA Lead** — own the full test strategy across 8+ applications, from framework design to release confidence gates
 - 🤖 **AI-first engineer** — built LLM-powered test generation that cut authoring time by **70%** and eliminated test debt as a sprint bottleneck
 - 🔁 **Self-healing automation pioneer** — adaptive locator engine with **85% reduction** in UI maintenance, zero flaky-test escalations for 6 months straight
 - ⚡ **CI/CD integrator** — quality gates baked into Azure Pipelines; tests on every commit, **60% faster** release cycles
@@ -153,7 +153,7 @@ Public, inspectable code — not slides.
 
 | Role | Company | Period |
 |---|---|---|
-| Lead Test Automation Engineer | ANVA BV, Netherlands | Sep 2024 – Present |
+| Lead Test Automation Engineer | Netherlands | Sep 2024 – Present |
 | Lead Test Automation Engineer | Mendix Technology BV (Siemens · NEC) | May 2021 – Aug 2024 |
 | Test Automation Engineer | Liberty Global (via Infosys) | Jan 2017 – May 2021 |
 | Systems Engineer | Infosys (Gov. of India e-Governance) | Jul 2016 – Jan 2017 |
@@ -166,7 +166,7 @@ Public, inspectable code — not slides.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajushanigarapu)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raju-shanigarapu.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajuitengineer@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RAJUB4U927@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJUSHANIGARAPU)
 
 </div>
