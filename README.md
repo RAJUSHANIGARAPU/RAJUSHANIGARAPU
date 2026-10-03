@@ -155,7 +155,7 @@ Public, inspectable code — not slides.
 |---|---|---|
 | Lead Test Automation Engineer | Netherlands | Sep 2024 – Present |
 | Lead Test Automation Engineer | Mendix Technology BV (Siemens · NEC) | May 2021 – Aug 2024 |
-| Test Automation Engineer | Liberty Global (via Infosys) | Jan 2017 – May 2021 |
+| Test Automation Engineer | Liberty Global (via Infosys) | Jul 2016 – May 2021 |
 | Systems Engineer | Infosys (Gov. of India e-Governance) | Jul 2016 – Jan 2017 |
 
 ---
